@@ -49,7 +49,7 @@ var schema = Schema(`
     find_character (query, args){
       console.log(query, args)
     }
-  }
+  } 
 })
 
 schema(`
